@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前是南京邮电大学计算机学院、软件学院、网络空间安全学院计算机科学与技术专业的一名硕士生，我的导师是肖甫教授和高铭教授。本科毕业于南京邮电大学计算机学院、软件学院、网络空间安全学院。
+我目前是南京邮电大学计算机学院、软件学院、网络空间安全学院计算机科学与技术专业的一名硕士生，我的导师是肖甫教授和高铭教授。本科毕业于南京邮电大学计算机学院、软件学院、网络空间安全学院软件工程专业。
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 我的研究领域：
