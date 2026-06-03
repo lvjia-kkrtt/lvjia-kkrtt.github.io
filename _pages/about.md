@@ -27,8 +27,7 @@ redirect_from:
 
 
 <span class='anchor' id='-xl'></span>
- <!-- - *2025.06 至今*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 南京邮电大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2021.09 - 2025.06*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
+
 # 🎓 学历
 - *2025.06 至今*, <a href="https://www.njupt.edu.cn/"></a> 南京邮电大学 计算机学院、软件学院、网络空间安全学院, 江苏南京, 硕士研究生
 - *2021.09 - 2025.06*, <a href="https://www.njupt.edu.cn/"></a> 南京邮电大学 计算机学院、软件学院、网络空间安全学院, 江苏南京, 本科
