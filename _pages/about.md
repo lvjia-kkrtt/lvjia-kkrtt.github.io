@@ -33,8 +33,8 @@ redirect_from:
 - *2021.09 - 2025.06*, <a href="https://www.njupt.edu.cn/"></a> 南京邮电大学 计算机学院、软件学院、网络空间安全学院, 江苏南京, 本科
  
  <!-- - *2025.06 至今*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 南京邮电大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2021.09 - 2025.06*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
-<span class='anchor' id='-lwzl'></span> -->
+- *2021.09 - 2025.06*, <a href="https://www.njupt.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 
@@ -46,8 +46,8 @@ redirect_from:
 <!-- -	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
 [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -164,7 +164,7 @@ redirect_from:
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
 
-<span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-gzsx'></span> -->
 
 <!-- # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
